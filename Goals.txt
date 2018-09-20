@@ -1,4 +1,5 @@
-
+*we could try tic tac toe again
+*We could start with c++ and move over to java. or c# but i feel its better for us to move to java after c++ to get used to that type of thing.
 
 -decide on a project
 -decide what language
